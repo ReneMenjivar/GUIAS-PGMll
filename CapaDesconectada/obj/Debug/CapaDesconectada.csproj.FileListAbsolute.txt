@@ -25,3 +25,16 @@ C:\Users\diego\OneDrive\Escritorio\Proyecto\CapaDesconectada\CapaDesconectada\ob
 C:\Users\diego\OneDrive\Escritorio\Proyecto\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesc.ABCBD388.Up2Date
 C:\Users\diego\OneDrive\Escritorio\Proyecto\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.exe
 C:\Users\diego\OneDrive\Escritorio\Proyecto\CapaDesconectada\CapaDesconectada\obj\Debug\CapaDesconectada.pdb
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\bin\Debug\CapaDesconectada.exe.config
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\bin\Debug\CapaDesconectada.exe
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\bin\Debug\CapaDesconectada.pdb
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\bin\Debug\AccesoDatos.dll
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\bin\Debug\AccesoDatos.pdb
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.AssemblyReference.cache
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\obj\Debug\CapaDesconectada.Form1.resources
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\obj\Debug\CapaDesconectada.Properties.Resources.resources
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.GenerateResource.cache
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\obj\Debug\CapaDesconectada.csproj.CoreCompileInputs.cache
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\obj\Debug\CapaDesc.ABCBD388.Up2Date
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\obj\Debug\CapaDesconectada.exe
+C:\Users\diego\Source\Repos\GUIAS-PGMll\CapaDesconectada\obj\Debug\CapaDesconectada.pdb

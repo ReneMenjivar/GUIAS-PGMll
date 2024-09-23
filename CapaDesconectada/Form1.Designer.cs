@@ -70,6 +70,7 @@
             this.GridTipado.Name = "GridTipado";
             this.GridTipado.Size = new System.Drawing.Size(336, 175);
             this.GridTipado.TabIndex = 1;
+            this.GridTipado.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.GridTipado_CellContentClick);
             // 
             // groupBox2
             // 

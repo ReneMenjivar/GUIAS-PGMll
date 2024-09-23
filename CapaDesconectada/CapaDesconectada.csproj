@@ -53,6 +53,9 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Northwind.cs">
+      <DependentUpon>Northwind.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Northwind.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
